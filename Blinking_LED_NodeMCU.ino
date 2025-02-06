@@ -1,12 +1,12 @@
 #include "ThingSpeak.h"
 #include <ESP8266WiFi.h>
 //Replace your wifi credentials here
-const char* ssid = "-------------";//Replace with 
+const char* ssid = "Galaxy M14";//Replace with 
 your Wifi Name
-const char* password = "--------";// Replace with 
+const char* password = "12345678";// Replace with 
 your wifi Password
 //change your channel number here
-unsigned long channel =123456;//Replace with your 
+unsigned long channel =2831523;//Replace with your 
 own ThingSpeak Account Channle ID
 //1,2 and 3 are channel fields. You don't need to 
 change if you are following this tutorial. However, 
